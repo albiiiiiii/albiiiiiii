@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @albiiiiiii
-- 👀 I’m interested in computer science and it's related fields
+- 👋 Hi, I’m Albin
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on various projects
 - 📫 How to reach me- albinbinumat@gmail.com. feel free to leave a message.
