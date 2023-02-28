@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin Binu Mathew</h1>
 <h3 align="center">A passionate developer in India who constantly aspires to learn and adapt according to the emerging technologies.</h3>
 
-- 🔭 I’m currently working on a **Food management and donation app**
+- 🔭 I’m currently working on a **Hotel reservation app**
 
 - 🌱 I’m currently learning **Kali Linux, HTML, CSS**
 
