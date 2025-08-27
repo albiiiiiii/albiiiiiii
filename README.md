@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Albin Binu Mathew</h1>
 <h3 align="center">A passionate developer in India who constantly aspires to learn and adapt according to the emerging technologies.</h3>
 
-- 🔭 I’m currently working on a **Flask project for a note building web application**
+- 🌱 I’m currently learning **Cyber Security and the basics of Ethical Hacking**
 
-- 🌱 I’m currently learning **Kali Linux**
-
-- 📫 How to reach me **albinbinumat@gmail.com**
+- 📫 How to reach me: **albinbinumat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
